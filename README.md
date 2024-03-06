@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# React Dropdown
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created a simple dropdown component using React.
 
-## Available Scripts
+## Instructions
 
-In the project directory, you can run:
+Create a simple dropdown component according to the following requirements:
 
-### `npm start`
+- Display a button with a dropdown arrow.
+- On hovering over the button, show the dropdown items.
+- The dropdown component should receive an array of items to display in the list.
+- On click of an option in the dropdown list, close the dropdown.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Additional Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- After implementing the dropdown, consider adding the following features:
+  - Styling to make the dropdown visually appealing.
+  - Support for keyboard navigation.
+  - Ability to select multiple options.
+  - Any other feature you think would enhance the usability of the dropdown.
 
-### `npm test`
+## Deployment
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Once your dropdown component is ready, you can deploy it to a live site. Follow the steps below:
 
-### `npm run build`
+1. Build your React app using the `npm run build` command.
+2. Deploy the built files to a hosting service like GitHub Pages, Netlify, or Vercel.
+3. Update the README file with the live site link.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Live Site
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[Link to Live Site](#) <!-- Replace '#' with the actual URL of your deployed site -->
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- You can learn more about React in the [React documentation](https://reactjs.org/).
+- To get started with Create React App, refer to the [Create React App documentation](https://create-react-app.dev/docs/getting-started/).
