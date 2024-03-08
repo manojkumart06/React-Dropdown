@@ -4,7 +4,7 @@ Created a simple dropdown component using React.
 
 ## Instructions
 
-Create a simple dropdown component according to the following requirements:
+Created a simple dropdown component according to the following requirements:
 
 - Display a button with a dropdown arrow.
 - On hovering over the button, show the dropdown items.
